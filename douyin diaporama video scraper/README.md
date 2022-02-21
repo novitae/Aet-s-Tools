@@ -14,5 +14,5 @@ python douyinpicscraper.py https://v.douyin.com/LwdB7WF/
 python douyinpicscraper.py https://v.douyin.com/LwdB7WF/ -p <YOUR PATH>
 ```
 At the end you should get:
-![](https://github.com/novitae/t/blob/main/douyin%20diaporama%20video%20scraper/Capture%20d’écran%202022-02-21%20à%2022.41.20.png?raw=true)
-![](https://github.com/novitae/t/blob/main/douyin%20diaporama%20video%20scraper/Capture%20d’écran%202022-02-21%20à%2022.41.16.png?raw=true)
+![](https://github.com/novitae/t/blob/4d535a661cdf62f9eb6a2c0520171471dd566e54/douyin%20diaporama%20video%20scraper/Capture%20d%E2%80%99e%CC%81cran%202022-02-21%20a%CC%80%2022.41.16.png)
+![](https://github.com/novitae/t/blob/4d535a661cdf62f9eb6a2c0520171471dd566e54/douyin%20diaporama%20video%20scraper/Capture%20d%E2%80%99e%CC%81cran%202022-02-21%20a%CC%80%2022.41.20.png)
