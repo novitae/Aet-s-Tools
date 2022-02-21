@@ -37,7 +37,7 @@ def _parseResp(j) -> list:
     retour = []
     uid = j["item_list"][0]["author"]["unique_id"]
     for x, imgnfo in enumerate(j["item_list"][0]["images"]):
-        retour.append({f"{uid}_{x}.jpeg":imgnfo["url_list"][0]})
+        retour.append({f"{uid}_{x}.webp":imgnfo["url_list"][0]})
     return retour
 
 def _getPicBinary(url) -> bytes:
