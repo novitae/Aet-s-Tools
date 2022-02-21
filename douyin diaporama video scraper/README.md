@@ -13,3 +13,6 @@ python douyinpicscraper.py https://v.douyin.com/LwdB7WF/
 # You can select the path of where to export the pics:
 python douyinpicscraper.py https://v.douyin.com/LwdB7WF/ -p <YOUR PATH>
 ```
+At the end you should get:
+![](https://github.com/novitae/t/blob/main/douyin%20diaporama%20video%20scraper/Capture%20d’écran%202022-02-21%20à%2022.41.20.png?raw=true)
+![](https://github.com/novitae/t/blob/main/douyin%20diaporama%20video%20scraper/Capture%20d’écran%202022-02-21%20à%2022.41.16.png?raw=true)
