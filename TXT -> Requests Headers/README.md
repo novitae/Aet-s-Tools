@@ -19,7 +19,7 @@ Accept-Encoding: gzip, deflate, br
 ## Usage
 ```python
 # Install with:
-git clone https://github.com/novitae/Aet-s-Tools && cd "Aet-s-Tools/txt -> requests headers" && pip install .
+git clone https://github.com/novitae/Aet-s-Tools && cd Aet-s-Tools/'TXT -> Requests Headers'/ && pip install .
 
 # Run from CLI:
 tth
